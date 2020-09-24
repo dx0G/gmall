@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gmall-sms
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: f5480593-f5fc-4df4-85b7-3a1d71188787
+
